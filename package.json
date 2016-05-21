@@ -1,0 +1,21 @@
+{
+  "name": "bable-and-karma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "devDependencies": {
+    "es6-module-loader": "^0.17.11",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-systemjs": "^0.13.0",
+    "systemjs": "^0.19.28",
+    "systemjs-plugin-babel": "0.0.10"
+  },
+  "license": "ISC"
+}
